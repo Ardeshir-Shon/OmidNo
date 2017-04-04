@@ -16,5 +16,4 @@ function validateMail(str){
         }
     }
     return true;
-
 }
